@@ -12,4 +12,5 @@ Educative examples for learning and practicing machine learning
 conda create --name MachineLearning python=3.7
 conda install --name MachineLearning numpy matplotlib
 conda activate MachineLearning
-python3 <script_name>.py```
+python3 <script_name>.py
+```
