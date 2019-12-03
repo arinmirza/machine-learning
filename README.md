@@ -8,8 +8,8 @@ Educative examples for learning and practicing machine learning
 
 ### Usage
 
-1. `git clone https://github.com/arinmirza/machine-learning.git`
-2. `conda create --name MachineLearning python=3.7`
-3. `conda install --name MachineLearning numpy matplotlib`
-4. `conda activate MachineLearning`
-5. `python3 <script_name>.py`
+```git clone https://github.com/arinmirza/machine-learning.git
+conda create --name MachineLearning python=3.7
+conda install --name MachineLearning numpy matplotlib
+conda activate MachineLearning
+python3 <script_name>.py```
